@@ -1,5 +1,7 @@
 @import "./vendor.css";
 
+@import "./fonts/iransans/css/fontiran.css";
+
 @import "./core/index.css";
 
 @import "./components/buttons.css";

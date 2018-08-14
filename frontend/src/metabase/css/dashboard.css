@@ -92,6 +92,7 @@
 
 .DashboardGrid {
   margin-top: 1em;
+  direction: rtl;
 }
 
 .DashCard {
